@@ -1,0 +1,17 @@
+C:\Users\HP\OneDrive\Desktop\java\schoolmanagement\schoolmanagement\obj\Debug\schoolmanagement.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\java\schoolmanagement\schoolmanagement\obj\Debug\schoolmanagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Desktop\java\schoolmanagement\schoolmanagement\obj\Debug\schoolmanagement.Properties.Resources.resources
+C:\Users\HP\OneDrive\Desktop\java\schoolmanagement\schoolmanagement\obj\Debug\schoolmanagement.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Desktop\java\schoolmanagement\schoolmanagement\obj\Debug\schoolmanagement.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\java\schoolmanagement\schoolmanagement\bin\Debug\schoolmanagement.exe.config
+C:\Users\HP\OneDrive\Desktop\java\schoolmanagement\schoolmanagement\bin\Debug\schoolmanagement.exe
+C:\Users\HP\OneDrive\Desktop\java\schoolmanagement\schoolmanagement\bin\Debug\schoolmanagement.pdb
+C:\Users\HP\OneDrive\Desktop\java\schoolmanagement\schoolmanagement\obj\Debug\schoolmanagement.exe
+C:\Users\HP\OneDrive\Desktop\java\schoolmanagement\schoolmanagement\obj\Debug\schoolmanagement.pdb
+C:\Users\HP\OneDrive\Desktop\java\schoolmanagement\schoolmanagement\obj\Debug\schoolmanagement.dashborad.resources
+C:\Users\HP\OneDrive\Desktop\java\schoolmanagement\schoolmanagement\obj\Debug\schoolmanagement.event.resources
+C:\Users\HP\OneDrive\Desktop\java\schoolmanagement\schoolmanagement\obj\Debug\schoolmanagement.fees.resources
+C:\Users\HP\OneDrive\Desktop\java\schoolmanagement\schoolmanagement\obj\Debug\schoolmanagement.student.resources
+C:\Users\HP\OneDrive\Desktop\java\schoolmanagement\schoolmanagement\obj\Debug\schoolmanagement.teacher.resources
+C:\Users\HP\OneDrive\Desktop\java\schoolmanagement\schoolmanagement\obj\Debug\schoolmanagement.attendances.resources
+C:\Users\HP\OneDrive\Desktop\java\schoolmanagement\schoolmanagement\obj\Debug\schoolmanagement.login.resources
